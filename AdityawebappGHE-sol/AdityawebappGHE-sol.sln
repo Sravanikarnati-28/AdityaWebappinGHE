@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdityawebappGHE-proj", "AdityawebappGHE-proj\AdityawebappGHE-proj.csproj", "{EE7B3B98-6C0F-4914-BF76-03B5AEF13392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7B3B98-6C0F-4914-BF76-03B5AEF13392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7B3B98-6C0F-4914-BF76-03B5AEF13392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7B3B98-6C0F-4914-BF76-03B5AEF13392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7B3B98-6C0F-4914-BF76-03B5AEF13392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E11CCD-803A-4877-969E-0FF3538C0713}
+	EndGlobalSection
+EndGlobal
